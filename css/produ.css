@@ -1,0 +1,90 @@
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Gluten:wght@300&family=Rampart+One&family=Sigmar+One&display=swap');
+</style>
+*{
+	padding: 0px;
+	margin: 0px;
+
+}
+
+
+body{
+	background-color: white; 
+	background-image:
+url(https://github.com/guidovarela/pd2_2022/blob/main/ejercicio1/img/bg_3229.png?raw=true);
+background-size:1300px 1500px
+
+}
+#contenedor{
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	background-color: #74b9ff; 
+	border: 4px;
+
+border: solid  black;
+   }
+  .toys{
+  	margin-top: 1px;
+  	padding-left: 3%;
+  	font-family:'Acme', sans-serif;
+  }
+.contenido{
+	width: 90%;
+	padding: 20px;
+	padding-top: 1%;
+
+ margin: auto;
+	
+	 
+	 display;}
+	 img{
+	 	width: 100%;
+	 }
+	.imagen{ 
+	width: 100%;
+	height: 60%;
+	margin-top: 1%;
+	margin-left: 0%;
+
+	 }
+	 .textos{
+	 	padding:  10px; 
+margin-top: -7%;
+	 	margin-left: 37%;
+margin-right: 10%;
+font-family:'Acme', sans-serif;
+font-size: 14px;
+
+}
+	 .titulos{ 
+	 padding: 0%;
+	 margin-top: -40%;
+	 margin-left: 38%;
+	 font-size: 25px; 
+	font-family:'Acme', sans-serif;
+}
+
+	 .rex{
+	 	
+width: 30%;
+padding: 30px;
+margin-left: 2%;
+	height: 20%;
+
+border: 5px;
+	border-radius: 10%;
+	margin-top: 3%;
+
+	 }
+
+
+	 .footer{
+
+	 	height: 2px;
+	 	width: 66%;
+	 	margin-left: 17%;
+
+	 }
